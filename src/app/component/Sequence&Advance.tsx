@@ -54,7 +54,7 @@ function CourseSequence() {
           Advanced Courses
         </h1>
 
-        <div className="grid md:grid-cols-4 grid-cols-1 gap-10 md:px-10">
+        <div className="grid md:grid-cols-2 lg:grid-cols-3 grid-cols-1 gap-10 md:px-10">
           <div className="h-60 md:w-72 w-full shadow-2xl hover:scale-105">
             <div className="h-[80%]">
               <Image
